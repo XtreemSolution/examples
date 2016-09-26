@@ -1,0 +1,17 @@
+# Build output directies
+/target
+/build
+
+# IntelliJ IDEA specific files/directories
+out
+.idea
+*.ipr
+*.iws
+*.iml
+
+# Eclipse specific files/directories
+.classpath
+.project
+.settings
+.metadata
+bin
